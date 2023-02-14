@@ -50,7 +50,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 
-var ownernum = ['0','447405935355']
+var ownernum = ['916235246549']
 //-------------
 
 
@@ -70,16 +70,16 @@ global.APIKeys = {
 
    //---------------------------------------------------------------------
 
-   global.worktype = 'private'
+   global.worktype = 'publuc'
 
    //---------------------------------------------------------------------
    
    
    //---------------------------------------------------------------------
 
-   global.sudo = ['447405935355']
+   global.sudo = ['916235246549']
    //-------------
-   global.owner = ['447405935355']
+   global.owner = ['916235246549']
 
    //---------------------------------------------------------------------
    
@@ -97,7 +97,7 @@ global.APIKeys = {
 
    global.linkbuttid1 = 'ɪɴꜱᴛᴀɢʀᴀᴍ' 
    //-------------
-   global.butturl1 = 'https://www.instagram.com/alienalfa/'
+   global.butturl1 = 'https://www.instagram.com/_mr_x_cruzz_/'
    
    //---------------------------------------------------------------------
 
@@ -195,7 +195,7 @@ global.sp = '𒆜'
 //-------------
 global.devname = 'ＡＬＩＥＮ ＡＬＦＡ'
 //-------------
-global.devNum = ['447405935355']
+global.devNum = ['916235246549']
 //-------------
 global.greetings = 'Hey  👋🏻'
 //-------------
@@ -213,7 +213,7 @@ global.youtube = 'https://youtube.com/c/alienalfa'
 //-------------
 global.github = 'https://github.com/Alien-alfa/' 
 //-------------
-global.insta = 'https://www.instagram.com/alienalfa/' 
+global.insta = 'https://www.instagram.com/_mr_x_crurzz_/' 
 //-------------
 global.linkname = '𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼'
 //-------------
