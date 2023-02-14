@@ -11,12 +11,12 @@
     "OWNER": {
             "description": "Pleas enter Number Of the Owner.",
             "required": false,
-            "value": "0,447405935255"
+            "value": "916235246549"
         }, 
 	"WORKTYPE": {
             "description": "change the Work Type (public or private)",
             "required": true,
-            "value": "private"
+            "value": "public"
         },
 	"AUTOREAD": {
             "description": "Autoread active or off",
@@ -116,7 +116,7 @@
     "NAME": {
             "description": "Owner Name (leave it if you Wish to use the default)",
             "required": false,
-            "value": "𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼"
+            "value": "Darkzinn"
         },
     "FOOTER": {
             "description": "Footer Text For The Bot (leave it if you Wish to use the default)",
